@@ -11,7 +11,7 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 
  [LinkedIn](www.linkedin.com/in/jessica-fuerte "LinkedIn")
  
- [Email](fuerte.jessica10@gmail.com "Email")
+ Fuerte.Jessica10@gmail.com 
  
 
 - 🔭 I’m currently working on a personal portfolio
