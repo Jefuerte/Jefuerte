@@ -7,12 +7,13 @@ Front End: HTML, CSS, JavaScript, React, Redux, Cypress, Axios
 
 Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
 
-### Connect with me!
+## Connect with me!
 
  [LinkedIn](https://www.linkedin.com/in/jessica-fuerte-119908223/ "LinkedIn Profile")
  
  Fuerte.Jessica10@gmail.com 
  
+## About me 
 
 - 🔭 I’m currently working on a personal portfolio
 - 🌱 I’m currently expanding my knowledge in frontend development
@@ -21,12 +22,12 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 - ⚡ Fun fact: I despise ketchup
 - 📖 Currently Reading: The Secret History by Donna Tartt
  
-### Github Stats
+## Github Stats
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefuerte&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefuerte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Trophies 
+## Trophies 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jefuerte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
