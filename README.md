@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there I'm Jessica 👋
 
-<!--
-**Jefuerte/Jefuerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Developer & Bloomtech graduate who is currently living in Houston, TX
 
-Here are some ideas to get you started:
+## Technical Skills
+Front End: HTML, CSS, JavaScript, React, Redux, Cypress, Axios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
+
+### Feel free to reach out to me on my LinkedIn or email listed below:
+
+ [LinkedIn](www.linkedin.com/in/jessica-fuerte "LinkedIn")
+ 
+ Fuerte.jessica10@gmail.com
+ 
+
+- 🔭 I’m currently working on a personal portfolio
+- 🌱 I’m currently expanding my knowledge in frontend development
+- 💬 Ask me about books, anime, or music
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I despise ketchup
+- 📖 Currently Reading: The Secret History by Donna Tartt
+ 
 -->
