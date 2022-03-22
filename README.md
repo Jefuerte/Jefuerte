@@ -7,7 +7,7 @@ Front End: HTML, CSS, JavaScript, React, Redux, Cypress, Axios
 
 Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
 
-### Feel free to reach out to me on my LinkedIn or email listed below:
+### Connect with me!
 
  [LinkedIn](https://www.linkedin.com/in/jessica-fuerte-119908223/ "LinkedIn Profile")
  
