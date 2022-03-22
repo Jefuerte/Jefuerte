@@ -28,6 +28,12 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefuerte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## Recent Activity 
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jefuerte&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## Trophies 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jefuerte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
