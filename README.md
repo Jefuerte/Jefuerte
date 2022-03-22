@@ -21,8 +21,12 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 - ⚡ Fun fact: I despise ketchup
 - 📖 Currently Reading: The Secret History by Donna Tartt
  
--->
+### Github Stats
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefuerte&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefuerte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Trophies 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jefuerte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
