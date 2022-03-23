@@ -36,4 +36,4 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 
 ## Trophies 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jefuerte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jefuerte&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
