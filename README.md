@@ -26,7 +26,7 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefuerte&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefuerte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefuerte&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Recent Activity 
