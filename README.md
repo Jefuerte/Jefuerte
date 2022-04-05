@@ -20,7 +20,7 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 - 💬 Ask me about books, anime, or music
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I despise ketchup
-- 📖 Currently Reading: The Secret History by Donna Tartt
+- 📖 Currently Reading: My Dearest Darkest by Kayla Cottingham
  
 ## 📊 Github Stats
 
