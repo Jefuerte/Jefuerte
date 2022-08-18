@@ -31,14 +31,6 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 
 
 
-## 🔥 Streaks
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jefuerte&theme=synthwave)](https://git.io/streak-stats)
-
-
-## ✌🏼 Recent Activity 
-
-[![Jessica's github activity graph](https://activity-graph.herokuapp.com/graph?username=jefuerte&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🏆 Trophies 
