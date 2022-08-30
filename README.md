@@ -15,7 +15,7 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
  
 ## 💁🏻‍♀️ About me 
 
-- 🔭 I’m currently working on a personal portfolio
+- 🔭 I’m currently working on a personal project
 - 🌱 I’m currently expanding my knowledge in frontend development
 - 💬 Ask me about books, anime, or music
 - 😄 Pronouns: She/Her
