@@ -17,7 +17,7 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m currently expanding my knowledge in frontend development
-- 💬 Ask me about books, anime, or music
+- 💬 Ask me about books or music
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I despise ketchup
 - 📖 Currently Reading: The Hwathorne Legacy by Jennifer Lynn Barnes
