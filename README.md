@@ -22,7 +22,7 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 - 💬 Ask me about books or music
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I despise ketchup
-- 📖 Currently Reading: Perfect on Paper by Sophie Gonzalez
+- 📖 Currently Reading: I kissed Alice by Anna Birch
  
 
  
